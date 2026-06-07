@@ -1,0 +1,18 @@
+[
+    {
+        "question": "5+5=",
+        "answers":[
+            {"text": "6", "is_correct": false},
+            {"text": "10", "is_correct": true},
+            {"text": "7", "is_correct": false}
+        ]
+    },
+    {
+        "question": "How do you output text to the termial in Python",
+        "answers": [
+            {"text": "echo('text')", "is_correct": false},
+            {"text": "print('text')", "is_correct": true},
+            {"text": "write('text')", "is_correct": false}
+        ]
+    }
+] 
